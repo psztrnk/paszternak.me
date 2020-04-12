@@ -6,7 +6,7 @@ Description: Guy with a beard. Reads a lot. Writes a bit. Occasionally takes pho
 
 ----
 
-Contact: Contact me at (email: hello@paszternak.me). I'm also on (link: https://micro.blog/psztrnk text: micro.blog).
+Contact: Contact me at (email: hello@paszternak.me). I'm also on (link: https://libranet.de/profile/apsztrnk/ text: Friendica).
 
 ----
 
@@ -14,7 +14,7 @@ Footertext: (link: / text: main.page)&nbsp;&nbsp;&nbsp;(link: about text: about.
 
 ----
 
-Text:
+Text: 
 
 ----
 
