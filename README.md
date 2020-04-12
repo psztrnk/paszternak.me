@@ -8,6 +8,8 @@ This website is built on [Kirby CMS](https://github.com/getkirby/kirby/) by Bast
 
 This site uses [Kirby 3 Feed plugin](https://github.com/bnomei/kirby3-feed) by Bruno Meilick, released under the MIT License.
 
+This site uses the [Palanquin typeface](https://github.com/VanillaandCream/Palanquin/) by Pria Ravichandran, released under the SIL Open Font License 1.1.
+
 ### License
 
 The content of this website is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported ([CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/)) License.

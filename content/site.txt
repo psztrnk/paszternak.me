@@ -10,7 +10,7 @@ Contact: Contact me at (email: hello@paszternak.me). I'm also on (link: https://
 
 ----
 
-Footertext: (link: / text: main.page)&nbsp;&nbsp;&nbsp;(link: about text: about.this)&nbsp;&nbsp;&nbsp;(link: micro text: micro.status)&nbsp;&nbsp;&nbsp;(link: feed text: json.feed)
+Footertext: (link: / text: main.page)&nbsp;&nbsp;&nbsp;(link: about text: about.this)&nbsp;&nbsp;&nbsp;(link: micro text: micro.status)&nbsp;&nbsp;&nbsp;(link: feed text: json.feed)&nbsp;&nbsp;&nbsp;(link: https://github.com/psztrnk/paszternak.me text: site.source)
 
 ----
 
