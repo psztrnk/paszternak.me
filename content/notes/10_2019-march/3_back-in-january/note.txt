@@ -1,0 +1,39 @@
+Title: Back in January
+
+----
+
+Subtitle: A Kirby story
+
+----
+
+Text: 
+
+I've finished the Hungarian translation for Kirby 3 &ndash; in exchange, Bastian was kind enough to provide a free K3 license for me (thanks, Bastian!). So I updated my site to (link: https://getkirby.com/v3 text: v3 of Kirby target: _blank) as soon as it was released (this was the *eastbourne* &rarr; *fortrose* update in my terms). Unfortunately the update had some unforeseen consequences (namely: the whole frontend broke due to some significant differences between versions 2 and 3 of Kirby; as well as minor disruptions on the backend).
+
+Normally what I'd do is to carefully test (and fine tune) even the minor versions &ndash; but now I knew that I won't have the time to do it properly in the upcoming weeks.  So I decided to just go on with the default template which comes with the (link: https://github.com/getkirby/starterkit text: Kirby Starterkit target: _blank) in order to get the foundation updated as soon as possible without affecting the availability of the site. So I applied some minor modifications to the default and that was it, I got back to other (more important) stuff and forgot about it for two months or so.
+
+(image: p3v6_fortrose.png caption: Version p3v6, also known as "fortrose". Look, it looks like a doggy's head.)
+
+Of course it was not really my type of a design (if there is such thing, anyway) &ndash; I felt it a bit cluttered and alien. So I decided to make the design a bit more "*eastbourne-ish*" (meaning get rid of the stuff I don't need both on the front- and the backend).
+
+*eastbourne* was an uncluttered, minimal, one-column and text-focused design with almost no graphic elements:
+
+(image: p2v5_eastbourne.png caption: Version p2v5 "eastbourne" at its best.)
+
+I didn't want to replicate *eastbourne* for K3 &ndash; although I liked it a lot, there were a few other changes since *p2v5*. For example the whole content structure was changed: I decided to go for the scrapbook approach (switched to a "book &rarr; month &rarr; entry" structure, instead of just posting everything unstructured). Also I removed all my photos from the site and decided to have them all in one place online (and one place *only*). That is 500px for now.
+
+Basically I was totally satisfied with the overall look of *eastbourne*, so I wanted it to *evolve* instead of *disappear* completely.
+
+And this brings us to *glenluce*. As simple as it can be, *glenluce* tries to replicate a physical (scrap)book with its surroundings with all their levels involved: the user
+1. enters into my "space" (top level);
+2. either opens my scrapbook or gets to know the owner of the book (personal level);
+3. can view my "cut-outs" and journal entries on a monthly scale (months level &ndash; optional, by the way) or
+4. as an individual entry (scraps level).
+
+Perhaps this looks unnecessarily complicated (at least compared to previous versions), but for me it makes perfect sense. Also, the monochromatic (or grayscale, to be precise) look kind of gives me of a pure "pen and paper" experience. *glenluce* is like a mash-up of *eastbourne* and *fortrose* &ndash; borrows the absolute simplicity of the former, yet keeps some elements (like the front page) of the latter.
+
+Overall, it's been really fun to get to know Kirby's version 3 and to work with it. For now, I am satisfied with the results and with *glenluce* in general.
+
+----
+
+Date: 2019-03-22 10:00

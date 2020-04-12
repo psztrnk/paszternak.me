@@ -1,0 +1,21 @@
+Title: We measure the connections
+
+----
+
+Showtitle: 
+
+----
+
+Date: 2020-03-12 11:40
+
+----
+
+Text:
+
+>  to backend servers made by six browsers: Google Chrome, Mozilla Firefox, Apple Safari, Brave Browser, Microsoft Edge and Yandex Browser, during normal web browsing. Our aim is to assess the privacy risks associated with this back-end data exchange. We find that the browsers split into three distinct groups from this privacy perspective. In the first (most private) group lies Brave, in the second Chrome, Firefox and Safari and in the third (least private) group lie Edge and Yandex. 
+
+https://www.scss.tcd.ie/Doug.Leith/pubs/browser_privacy.pdf
+
+----
+
+Subtitle: 

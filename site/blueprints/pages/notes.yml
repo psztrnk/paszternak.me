@@ -1,0 +1,15 @@
+title: Notes
+unlisted: true
+
+columns:
+  - width: 1/2
+    sections:
+      months:
+        type: pages
+        headline: Months in the Scrapbook
+        parent: site.find("notes")
+        info: "{{ page.children.count }} note(s)"
+        template:
+          - month
+        image: false
+        limit: 10

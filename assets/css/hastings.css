@@ -1,0 +1,154 @@
+@font-face{font-family:'Palanquin';src:url('../fonts/palanquin-regular.ttf')}
+@font-face{font-family:'Palanquin Bold';src:url('../fonts/palanquin-bold.ttf')}
+@font-face{font-family:'Palanquin Dark';src:url('../fonts/palanquin-light.ttf')}
+
+body{
+	background: #fffffe;
+	color: #465646;
+	font-size: 1rem;
+	line-height: 1.75rem;
+	font-family: 'Palanquin',sans-serif;
+}
+::selection{
+	color: #fffffe;
+	background: #404040;
+}
+
+b, strong {
+	font-family:'Palanquin Bold', sans-serif;
+}
+
+i, em {
+	font-style: italic;
+}
+
+/* HEADER, FOOTER */
+
+header,
+footer,
+.content {
+	width: 90%;
+	margin: 5% auto;
+	max-width: 520px;
+}
+
+header {
+	text-align: center;
+	margin: 6rem auto;
+}
+
+footer {
+	margin: -2rem auto 4rem auto;
+	text-align: center;
+}
+
+header img {
+	width: 80px;
+	height: auto;
+	border-radius: 80px;
+}
+
+header h1 {
+	font-family:'Palanquin Bold', sans-serif;
+	font-size: 150%;
+	margin: 1rem 0;
+}
+
+header p {
+	font-size: 75%;
+	color: #aaa;
+}
+
+header p a {
+	color: #132313;
+}
+
+header span p a {
+	color: #aaa;
+	text-decoration: none;
+}
+
+footer p {
+	font-size: 75%;
+	color: #aaa;
+}
+
+
+/* ARTICLE */
+
+article {
+	margin: 4rem 0 8rem 0;
+	word-wrap: break-word;
+}
+
+article h2, article h3, article h4 {
+	font-family:'Palanquin Bold', sans-serif;
+	margin: 1rem 0;
+}
+
+article p {
+	margin: 1rem 0;
+}
+
+article a  {
+	color: #132313;
+}
+
+article p.meta, article p.meta a, nav a, footer a {
+	color: #aaa;
+	text-decoration: none;
+}
+
+article p.meta span.friendica {
+	text-transform: uppercase;
+	font-size: 75%;
+}
+
+article blockquote {
+	margin: 1rem 0;
+	border-left: 1px solid #aaa;
+	padding: 0 0 0 2rem;
+}
+
+article img {
+	width: 100%;
+	height: auto;
+	margin: 1rem 0 .5rem 0;
+}
+
+article blockquote img {
+	margin: .5rem 0 0 0;
+}
+
+article ul {
+	list-style-type: circle;
+	padding: 0 0 0 2rem;
+}
+
+article ol {
+	list-style-type: decimal;
+	padding: 0 0 0 2rem;
+}
+
+article figcaption {
+	color: #aaa;
+	font-size: 75%;
+}
+
+/* NAV */
+
+nav {
+	display: block;
+	margin: -4rem 0 4rem 0;
+}
+
+nav .prev {
+	float: right;
+	padding: 0 0 4rem 0;
+}
+
+.clear {
+	display: block;
+	clear: both;
+	height: 1px;
+}

@@ -1,0 +1,51 @@
+Title: Egy jobhopper naplója
+
+----
+
+Subtitle: 
+
+----
+
+Text: 
+
+Nagyon nem így terveztem ám a hazajövetelt: amikor annak idején Krakkóba mentem, akkor előre leegyeztetett munkára mentem, előre leegyeztetett feltételekkel, mondhatni biztosra. Amikor hazajöttem, az ennek pont az ellentéte volt: gyakorlatilag a semmire jöttem vissza, fogalmam sem volt, hol fogok dolgozni, mit fogok csinálni, miből fogok élni. Annyi volt csak biztos, hogy izgalmas időknek nézek elébe. Nehezítő tényezőként (pro level) úton volt a gyermekem, vagyis az "izgalmas" mellé betársult a "félelmetes" is.
+
+Mielőtt ott landoltam, ahol most vagyok, három munkahelyen, három nagyon különböző munkakörben dolgoztam &ndash; hét-nyolc hónapon belül, ami már elég erősen a jobhopping kategória. Voltaképpen mindhárom helyről még próbaidő alatt léptem ki, ami hát - valljuk be őszintén - nem a munkaadók álma. Ugyanakkor úgy érzem, hogy a fenti három munkahely és munkakör mindegyike bedarált volna hosszú távon. Nem azért mert nem *tudnám* csinálni, inkább azért mert nem *akarnám* &ndash; vagy *azt*, vagy *ott*.
+
+Az első próbálkozás egy team/store manager pozíció volt egy nemzetközi távközlési multi egyik (magyar) partnercégénél. Itt vetném közbe, hogy nekem a *multi* abszolút pozitív, tökéletesen távol áll tőlem a magyar *urambátyám-mentalitás*, ezzel szemben a nemzetközi nagyvállalatok viszonylagos stabilitását, jól szabályozott működését és átlátható struktúráját kimondottan kedvelem. Ezt a környezetet kerestem az első pozícióban is &ndash; sajnos viszonylag hamar (vagy inkább: még éppen időben) kiderült, hogy a partner *multisága* bizony az ég világon semennyire nem hat le a magyar partnercégre, ami pontosan az a magyar típusú cég, amitől olyan nagyon távol akartam tartani magam. Az már meg sem lepett, hogy a jutalékos rendszer alapbéren felöli részét kápéban fizették ki (úgynevezett boríték), viszont arról nem volt szó, hogy a bérnek ezt a részét ráadásul feketén osztják, nem bejelentetten, adóelkerülve. Hovatovább a munkabér "hivatalos" része sem banki *utalás* formájában került hozzám, hanem banki *befizetésként* &ndash; aki nem érti a különbséget, az próbáljon meg egyszer például hitelt igényelni a készpénzbefizetésként megjelenő munkabére mellett.
+
+A pontot az i-re (a habot a tortára, a koronát az egészre stb.) aztán az tette fel, hogy egy szép napon a NAV munkatársai megjelentek az üzletben, hogy ők bizony foglalni jöttek, mert a cégnek adóhátraléka van. Tették ezt abban az üzletben, ahol az üzletvezető - én - szerződése szerint személyesen felel minden tárgyi- és pénzeszközért. A cégmenedzsment azonban még erre is rá tudott tenni egy lapáttal: amikor ezzel később szembesítettem őket, a válasz az volt, hogy "hát ők nem is tudják, mi lehet ez az egész, lehet, hogy elfelejtettek befizetni valamit, mindenesetre nem igazán értik a problémámat, de majd utánanéznek". Ezzel persze igen sok problémám van, de hogy csak a top hármat említsem:
+
+1. nem tudom, a nagy Budapesten ez hogy megy, de nálunk itt vidéken viszonylag ritka, hogy egy adótartozást felteszünk a polcra és *elfeledkezünk róla*;
+2. mi van akkor, ha legközelebb például *utánam* felejtik el befizetni az adót, esetleg a TB-járulékot; és végül
+3. mi a franc az, hogy "nem is igazán érti", mi ezzel a probléma.
+
+Mondjuk egy tippem mégis van: ahogy levettem, a cégtulaj viszonylag otthonosan mozog... hm... bizonyos politikai holdudvarokban.
+
+Úgyhogy ugrottam.
+
+Fiatal voltam, kellett a pénz, satöbbi, satöbbi, így aztán örültem, hogy viszonylag kevés időt kell munkanélküliként töltenem, hiszen korábbról volt egy megkeresésem a régi könyvtári munkahelyem összeolvadt utód-gigaintézményéből, ahol elég akut informatikus-hiánnyal küzdenek elég régóta. Úgyhogy felcsaptam (újra) könyvtári informatikusnak &ndash; ahol elég korán sikerült szembesülnöm azzal, hogy *az ég világon semmi nem változott* az elmúlt öt évben: ugyanolyan tesznyeség az egész, ugyanúgy szar a közalkalmazotti bértábla és ugyanúgy a múlt évszázad szervezeti "kultúrája" lengi be az egész ágazatot. Voltak ilyen félelmeim, ugyanakkor a remény hal(t) meg utoljára.
+
+Ha utoljára is, de meghalt végül a remény. Eltelt öt év és a könyvtárak még mindig nem haltak meg &ndash; viszont még mindig érezhető, hogy lassan, de haldokolnak. Jelenlegi formájukban biztosan. Tehát lehetett választani: vele haldokol az ember, vagy megpattan.
+
+Úgyhogy ugrottam.
+
+Harmadik kísérletem tényleg egy multi volt &ndash; Miskolc egyik legnagyobb munkáltatója, német gyáróriás itteni komplexuma, gyártástervezés. És hát egészen elborzasztott néhány dolog. 
+
+Aki nagy cégnél dolgozik, szívesen szidja a *corporate bullshitet*, ami sok esetben viszonylag érthető is. Viszont mégiscsak a vállalati szépbeszéd a módja annak, hogy a vezetőség többé-kevésbé motiváló módon kommunikáljon lefelé dolgokat, néha jó, gyakran semleges, és megint néha kimondottak szar dolgokat. Szerintem például kimondottan művészet, ha motiválóan pozitívan tudsz semleges dolgokról beszélni, ha meg alapvetően negatív témáról tudod megtenni, az meg pláne. Ezzel szemben ha egy felsővezető nyilvános fórumon (nem is egy, de két alkalommal is) explicit módon olyat képes mondani, hogy
+
+> csak azért vagytok itt, az a ti funkciótok, hogy sok pénzt keressetek a tulajdonosoknak és részvényeseknek
+
+akkor tudod, hogy ott gond van. Még akkor is, ha tudod, hogy ez igaz. Még akkor is, ha tudod, hogy te csak egy asset vagy a sokból. Az azonban szerintem megbocsáthatatlan, ha egy vezető pozícióban lévő ember ezt ilyen nyiltan kimondja. Így tudniillik explicit módon tesz egyenlőségjelet a shop flooron működő gyártósor robotjai és a humán munkavállalók közé. Márpedig amíg egy robot számára nem oszt és nem szoroz, hogy *minek tartják*, addig egy ember számára igenis fontos, hogy legalább névlegesen *emberként* tekintenek-e rá, vagy csupán úgy, mint egy eszközre.
+
+Ráadásul nap nap után implicit módon is érezni lehetett, hogy valóban ez a menedzsment álláspontja a mezei munkavállalók kapcsán. Ez pedig eleve kizárja az egészséges szervezeti kultúrát.
+
+Úgyhogy ugrottam.
+
+És végül kikötöttem ugyanott, ahonnan az egész nagy kaland - a külföldre költözés, a hazajövetel, a három elvetélt próbálkozás - indult. És úgy tűnik, hogy a jobhopper-cipőt jó időre a fiókba száműzhetem és végre koncentrálhatok munkára, családra és egyéb tervekre. 
+
+És ez azért nyugalommal tölti el az embert.
+
+----
+
+Date: 2017-05-09 00:00

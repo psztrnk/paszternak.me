@@ -1,0 +1,13 @@
+Title: Based on considerable feedback
+
+----
+
+Subtitle: 
+
+----
+
+Text: > from our customers, users, and the broader community, we reversed course the next day and removed those changes before they went into effect. Further, GitLab will commit to not implementing telemetry in our products that sends usage data to a third-party product analytics service. This clearly struck a nerve with our community and I [Sid Sijbrandij, Co-Founder and CEO of GitLab] (link: https://gitlab.com/gitlab-org/gitlab/issues/34833 text: apologize for this mistake target: _blank).
+
+----
+
+Date: 2019-10-31 08:20

@@ -1,0 +1,16 @@
+Title: Chris Wetherell, a Twitter korábbi fejlesztője
+
+----
+
+Subtitle: 
+
+----
+
+Text: 
+
+> aki csapatával létrehozta a retweet-gombot, idén nyáron nagy hatású cikkben vallotta be, hogy mélyen megbánta az egészet, és úgy tűnik, szörnyeteget szabadított a világra. Wetherell gyakorlatilag azt mondta, hogy a retweet bevezetése tényleg elhozta James Madison rémálmát, ugyanis minden akadályt elhárított az elől, hogy akármilyen hülyeség futótűzként terjedjen végig akár az egész világon. Korábban ugyanis az emberek legalább abban a néhány másodpercben végiggondolták, hogy mit is osztanak meg, amíg kimásolták és beillesztették a szöveget, mióta viszont egyetlen gombnyomás kell csak ehhez, sokkal (link: https://tldr.444.hu/2019/11/26/hazavagtuk-az-internetet-es-most-az-internet-hazavag-bennunket
+ text: meggondolatlanabbul cselekszenek target: _blank).
+
+----
+
+Date: 2019-11-26 08:45

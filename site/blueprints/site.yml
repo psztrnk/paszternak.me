@@ -1,0 +1,41 @@
+title: Site
+unlisted: true
+
+columns:
+  - width: 1/2
+    sections:
+      months:
+        type: pages
+        headline: Months
+        parent: site.find("notes")
+        info: "{{ page.children.count }} note(s)"
+        template:
+          - month
+        image: false
+        limit: 20
+  - width: 1/2
+    sections:
+      pages:
+        type: pages
+        headline: Pages
+        image: false
+        template:
+          - about
+          - notes
+          - default
+      general:
+        type: fields
+        headline: General
+        fields:
+          description:
+            type: textarea
+            label: Site Description
+            size: small
+          contact:
+            type: textarea
+            label: Contact Information
+            size: small
+          footertext:
+            type: textarea
+            label: Footer Text
+            size: small

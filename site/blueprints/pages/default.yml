@@ -1,0 +1,12 @@
+title: Default Page
+preset: page
+pages:
+  template:
+    - note
+    - month
+    - default
+fields:
+  text:
+    label: Text
+    type: textarea
+    size: large

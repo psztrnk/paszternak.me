@@ -1,0 +1,17 @@
+Title: Linux’s élite developers
+
+----
+
+Text: > who are overwhelmingly male, tend to share their leader’s aggressive self-confidence. There are very few women among the most prolific contributors, though the foundation and researchers estimate that roughly ten per cent of all Linux coders are women. “Everyone in tech knows about it, but Linus gets a pass,” Megan Squire, a computer-science professor at Elon University, told me, referring to Torvalds’s abusive behavior. “He’s built up this cult of personality, this (link: https://www.newyorker.com/science/elements/after-years-of-abusive-e-mails-the-creator-of-linux-steps-aside text: cult of importance target: _blank).”
+
+----
+
+Type: Shorty
+
+----
+
+Date: 2018-10-08 13:45
+
+----
+
+Gallery: 

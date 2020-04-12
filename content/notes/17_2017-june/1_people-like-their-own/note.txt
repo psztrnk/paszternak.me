@@ -1,0 +1,53 @@
+Title: People like their own
+
+----
+
+Subtitle: Musings on decentralization
+
+----
+
+Text: 
+
+Well, most people do, that is. They seek for their own, no matter they align because of their nationality or their religion or their language or a common interest. In real life, as well as on social networks.
+
+So when I arrived [to Diaspora\*](https://pod.geraspora.de/people/cd062d606cf90133bede4860008dbc6c) several years ago, I was trying to find other Hungarian people. I was able find a couple of them, all of them inactive (or just dormant?), remains of a once-existed Hungarian pod (out of service for years) and other than that – the void.
+
+Anyway, apart from shorter and longer breaks, I was using Diaspora\*, because I liked it more than Facebook. Sometimes I changed pods, because some were shut down, others became unreliable. I was sharing stuff, liking stuff, re-sharing stuff, reading stuff. And I was waiting whether any new Hungarians show up.
+
+From time to time I search for hashtags like [#hungary](https://pod.geraspora.de/tags/hungary), [#hungarian](https://pod.geraspora.de/tags/hungarian) and [#magyar](https://pod.geraspora.de/tags/hungary) (which is Hungarian for “Hungarian”). Just recently I found that [FSFE needs translators](https://pod.geraspora.de/posts/6009500) (including Hungarians), which is nice and I’ll probably contribute, but apart from this, only old posts form non-Hungarians about Hungary and Hungarian culture (music, literature). And some politics, of course.
+
+On the contrary, I see a lot of posts in German (no surprise on a German pod, I guess), French, Spanish and Brazilian Portuguese, so some nations are quite active across the federation. Which is great, since it represents cultural and linguistic variety, even if I sadly only speak basic German and none on the other languages.
+
+Still, I am sometimes missing the Hungarian content.
+
+As far as I can see, decentralized networks are not that popular in Hungary. We have no Diaspora\* pods, no GNU Social instances. There is a Mastodon instance with only [10 users](https://the.wired.sehol.se/about/more/), one happens to be me, another is the instance admin account. And the number of somewhat active users is three. And that includes me.
+
+On the other hand, Facebook has an insane amount of Hungarian users (5.26 million, according to [March 2016 data](http://kozossegikalandozasok.hu/2016/03/06/facebook-instagram-linkedin-magyarorszagon-2016-marciusban/)), at least compared to the population of the country (9.82 million): 53% of Hungarians use Facebook. Which is actually *[85% on the Hungarian internet users](http://www.digitaleastfactor.com/facebook-won-about-85-users-in-hungary-and-still-has-19-in-belorussia/)*. This is *massive*.
+
+Unfortunately I couldn’t find any statistics about Hungarian Twitter users. I am not sure if such a stat even exists.
+
+And one starts wondering, why decentralization and decentralized platforms fall behind.
+
+A possible answer is: because they came late. By the time they start to spread, Facebook has already built a monopoly and became The Social Network. People got used to “friending others”, “liking stuff” as such. Learning a whole new thing if you are settled to another is hard (especially if you are not forced). People like permanency. This also might be the answer why other centralized networks are struggling. Ello was once advertised as “[the Facebook killer](http://www.dailymail.co.uk/sciencetech/article-2805486/A-golden-Ello-Ad-free-Facebook-killer-social-network-raises-5-5m.html)” social network ([just like Diaspora\*](http://www.adweek.com/digital/facebook-killer-diaspora-finally-launches-alpha-version/)) – which [it was not](http://mashable.com/2014/09/29/ello-is-no-facebook-killer/#XrXtc9h33sqj). Imzy just announced that [they will shut down](https://www.imzy.com/imzy/post/imzy_is_shutting_down). Google killed Orkut [in 2014](https://support.google.com/orkut/?visit_id=0-636320046213269186-1873071978&hl=en&rd=2). And so on.
+
+And Facebook is still up and running, more popular than ever.
+
+The same goes to Twitter and all the “clones” or “copycats”: none of them made the leap to be mainstream (including but not limited to GNU Social, Mastodon, Path and so on).
+
+Another possible answer is: they are way too complicated for an average user. Think about this: there is only one Facebook. There is only one Twitter. You go there, there is a form you fill, you click the big button Register – and you’re done. In case of decentralized networks first you have to pick a pod (or instance, server). Have a look at [podupti.me](https://podupti.me/), [fediverse.org](https://www.fediverse.org/) or [instances.mastodon.xyz](https://instances.mastodon.xyz/list). If you are Average Joe/Jane, even picking a server is a complicated thing. Software versions, connections, uptime, federation – these all sound Chinese if you are not into these things.
+
+The ideas of “decentralization” and “federation” are not well known. And to be fair, the fact that Facebook or Google or Twitter are selling your data have almost no impact on the life of Average Joe/Jane. Sure, a couple of them heard that “[If You’re Not Paying for It; You’re the Product](http://www.metafilter.com/95152/Userdriven-discontent#3256046)” – but since they do not feel themselves as products, they do not really care. They are not privacy conscious, because it is far too time- and energy consuming to be privacy conscious.
+
+Because of the above, there is no critical mass that moves people away from Facebook and Twitter to discover alternatives. If you can’t find your friend, your uncle, the neighbor or your crush on Diaspora\*, then what is the point of being on Diaspora\*? You can find unknown people who share your interest on Facebook and on Twitter too, so why move on?
+
+Look at Mastodon: it is a really great tool, also being decentralized, not selling or collecting your data – but at this point it is really a shelter, a refuge for furry, gay and transsexual (etc.) people and some radical [whatever]s, all of them either do not fit in to the “community guidelines” of Twitter, or have been previously abused or harassed on Twitter.
+
+And on one hand, this is brilliant them having such a place. I am really happy for them and I am truly grateful that someone created a tool that can serve as a shelter for all of us. On the other hand, these guys (probably including myself) were always considered to be “weirdos”, so “well, umm, yeah, why go there if we have our shiny Twitter”?
+
+Bottom line. I am not on Facebook (once was, but deleted my account quite a while ago). I am still on Twitter, and we have great Hungarian conversations there. I am on Mastodon, however I am not sure whether there is a point in keeping a Hungarian instance alive for now, as there are no Hungarian users. I am on Diaspora\* (obviously) – and am sometimes missing the Hungarian content.
+
+As for now, I’ll probably join [fed.ialis.me](https://fed.ialis.me/) [as a contributor](https://soc.ialis.me/users/href/updates/11892) and try to spread the idea of decentralization.
+
+----
+
+Date: 2017-06-02 00:00

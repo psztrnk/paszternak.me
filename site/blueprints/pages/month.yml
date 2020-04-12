@@ -1,0 +1,24 @@
+title: Month
+unlisted: true
+
+columns:
+  - width: 1/2
+    sections:
+      pages:
+        type: pages
+        flip: true
+        info: "{{ page.num }} / {{ page.date }}"
+        headline: Notes in this Month
+        template:
+          - note
+  - width: 1/2
+    sections:
+      months:
+        type: pages
+        headline: Other Months
+        parent: site.find("notes")
+        info: "{{ page.children.count }} note(s)"
+        template:
+          - month
+        image: false
+        limit: 5

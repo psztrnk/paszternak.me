@@ -1,0 +1,8 @@
+Title: About
+
+----
+
+Text:
+
+This site respects your privacy: no cookies, no trackers, no remote resources.
+Typeface: (link: https://github.com/VanillaandCream/Palanquin/ text: Palanquin by Pria Ravichandran).

@@ -1,0 +1,21 @@
+Title: DIFFRENT VISION
+
+----
+
+Text: 
+
+(image: different_vision.jpg link: https://500px.com/robert_franz target: _blank)
+
+(link: https://500px.com/robert_franz text: DIFFERENT VISION target: _blank).
+
+----
+
+Type: Shorty
+
+----
+
+Date: 2018-09-19 13:15
+
+----
+
+Gallery: 

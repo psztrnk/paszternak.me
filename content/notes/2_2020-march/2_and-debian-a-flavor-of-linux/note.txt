@@ -1,0 +1,21 @@
+Title: And Debian, a flavor of Linux
+
+----
+
+Showtitle: 
+
+----
+
+Date: 2020-03-11 08:25
+
+----
+
+Text:
+
+> was top of the [vulnerability] table with 3,067 vulnerabilities over the last two decades. Reasonably close behind was Android on 2,563 vulnerabilities, with the Linux kernel in third place having racked up a count of 2,357. Apple’s macOS was only slightly behind that with 2,212, with Ubuntu in fifth place on 2,007.
+
+https://www.techradar.com/news/windows-10-isnt-the-most-vulnerable-operating-system-its-actually-linux
+
+----
+
+Subtitle: 

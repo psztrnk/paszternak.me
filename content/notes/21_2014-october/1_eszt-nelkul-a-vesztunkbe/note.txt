@@ -1,0 +1,61 @@
+Title: Ész(t) nélkül a vesztünkbe
+
+----
+
+Subtitle: 
+
+----
+
+Text: 
+
+*Sokkal többről szól ez, mint az internetadó.*
+
+(image: estonia_flag.jpg caption: Az a hajó már elment… Fotó: commons.wikimedia)
+
+Van egy ország, nem is messze tőlünk. Semmivel sem indult előbbről nálunk, mégis teljesen máshová — megkockáztatom: előrébb — jutott nálunk. <a href="https://en.wikipedia.org/wiki/Estonia" data-href="https://en.wikipedia.org/wiki/Estonia" class="markup--anchor markup--p-anchor" rel="nofollow noopener" target="_blank">Észtországról van szó</a>, a Szovjetunió egyik utódállamáról. És persze az internetadóról, ami még messzebb sodorja egymástól az észteket és a magyarokat — minden téren.
+
+Ma <a href="http://index.hu/kulfold/eurologus/2014/10/28/netado_helyett_virtualis_utlevel_az_esztek_igy_csinaljak/" data-href="http://index.hu/kulfold/eurologus/2014/10/28/netado_helyett_virtualis_utlevel_az_esztek_igy_csinaljak/" class="markup--anchor markup--p-anchor" rel="nofollow noopener" target="_blank">írt az Index</a> az észtekről, én mégis inkább <a href="http://www.economist.com/blogs/economist-explains/2013/07/economist-explains-21" data-href="http://www.economist.com/blogs/economist-explains/2013/07/economist-explains-21" class="markup--anchor markup--p-anchor" rel="nofollow noopener" target="_blank">az Economistra hivatkoznék</a>, amely némi történeti áttekintést is ad arról, hogy honnan indult és hová jutott ez a szűk másfél milliós ország.
+
+Észtország a magyarok után két évvel, 1991-ben váltott rendszert. Az ő esetükben ráadásul ez nem pusztán a politikai berendezkedést érintette, hanem jószerével mindent, amit a Szovjetunió felbomlása hozott. Margóra kívánkozó megjegyzés: velünk ellentétben ők még mindig köztársaság, hiszen az ország hivatalos elnevezése Eesti Vabariik (Republic of Estonia, azaz Észt Köztársaság).
+
+Ahogyan az Economist írja: ‘91-ben a háztartások kevesebb, mint fele rendelkezett telefonvonallal — mára pedig a világ egyik meghatározott IT-szereplőjévé vált. 2007-ben az észt állampolgárok már online szavazhattak. A <a href="http://www.netindex.com/" data-href="http://www.netindex.com/" class="markup--anchor markup--p-anchor" rel="nofollow noopener" target="_blank">Net Index</a> szerint 2012-ben Észtországban az <a href="http://www.baltic-course.com/eng/good_for_business/?doc=52217" data-href="http://www.baltic-course.com/eng/good_for_business/?doc=52217" class="markup--anchor markup--p-anchor" rel="nofollow noopener" target="_blank">átlagos letöltési sebesség 46.35 Mbps(!) volt</a>, amivel Észtország hivatalosan is a világ “legszélessávúbb” országaként szerepelt az összehasonlításban. Az európai átlag egyébként 13.20 Mbps volt abban az évben.
+
+Az észtek mobillal fizetnek a parkolásért és orvosi adataikat a kórházak a felhőben tárolják, vagyis bármelyik kórházba szédül is be egy balesetes észt, a teljes kórtörténete rendelkezésre áll. Az észtek kilencvenöt százaléka(!) online vallja be az adóját.
+
+Hogy a pokolba történhetett ez? Hogy a pokolba tartunk mi itt, az észtek meg ott?
+
+Nem, nem pusztán az “ortodox államvezetés” lőtte pályára Észtországot. Sőt, volt néhány ugyancsak unortodox lépésük. Vegyük például ezt: a finnek korszerűsítették a teljes távközlési rendszerüket és ingyen és bérmentve felajánlották Észtországnak a lecserélt, kicsit archaikus, ámde tökéletesen működő analóg telefonközpont-rendszerüket. Erre a nyakas észtek azt mondták, hogy “kell a halálnak”, meg hogy “majd mi kiépítjük a sajátunkat, de digitálisat ám”. Persze nem ezt mondták, illetve nem így, de a lényege ez volt. Ami valljuk be, cseppet azért unortodox, mármint hogy lerázzuk a gazdag rokont, aki tényleg segíteni akar. Persze ez csak “unortodox lvl 1”, a “lvl 2” az, amikor lehúzzuk a gazdag rokont, miközben <a href="https://medium.com/@psztrnk/megerdemelned-hogy-annyit-kapj-amennyit-adsz-a14c991643f8" data-href="https://medium.com/@psztrnk/megerdemelned-hogy-annyit-kapj-amennyit-adsz-a14c991643f8" class="markup--anchor markup--p-anchor" target="_blank">elmondjuk mindenféle utolsó gyökérnek</a>.
+
+Szóval miért hajtotta el Észtország a gazdag rokont? Nos, azért, mert az észteknek egy teljesen másféle víziójuk volt.
+
+És ez a lényeg: az észteknek <em class="markup--em markup--p-em">volt víziójuk</em> arról, hogy merre szeretnének elindulni és körül-belül hová szeretnének eljutni. És ebbe a vízióba nem illett bele az, hogy a teljes országot egy, a ‘70-es évek technológiáját megtestesítő rendszerre építsék fel. Szóval azt mondták a finneknek, hogy “kösz, de kösz nem”.
+
+Az irány, amelybe ehelyett elindultak, nagyban köszönhető egy <a href="https://en.wikipedia.org/wiki/Mart_Laar" data-href="https://en.wikipedia.org/wiki/Mart_Laar" class="markup--anchor markup--p-anchor" rel="nofollow noopener" target="_blank">Mart Laar nevű csókának</a>, aki egyébként — és nem mellesleg — két cikluson át (1992–1994; 1999–2002) Észtország miniszterelnöke volt. Teszem hozzá: jobbközépről, konzervatívként. Itthon is ismerünk olyat, aki onnan indult, khm.
+
+És Laar elkezdett egy vízió mentén intézkedni és ezen intézkedések közül többet ismerősnek is találhatunk: kezdetét vette a privatizáció, a pénzrendszer arany-alapra állt át, megjelent az egykulcsos adó és elindult a szabad kereskedelem. Laar kormánya (átlagéletkor: 35 év) megkönnyítette a vállalkozások beindítását (például a bürokratikus terhek csökkentésével) és átugrott néhány lépcsőfokot. Utóbbira jó példa az ingatlannyilvántartás — a nem létező nyilvántartást rögtön nem papíron, hanem digitálisan vezették be.
+
+Észtország fiatal(os) vezetése tudatosan fektetett be a digitális technológiába és az internetbe ahelyett, hogy őskövület technológiát adaptált volna, hogy aztán később küszködve fejlessze vagy cserélje le. És ha már álmodunk, akkor álmodjunk nagyot: tanítsuk meg a következő generációt arra, hogy hogyan használja ezt a technológiát, hiszen enélkül az egész csak szélbe hintett mag, amely sosem kel majd ki. Észtország tehát minden egyes oktatási intézménybe bekötötte a netet. Adott hozzá persze számítógépeket is.
+
+Idekívánkozó link: hazánkban 2014-ben van olyan, hogy <a href="http://nol.hu/belfold/a-szulok-veszik-az-iskolapadot-1474343" data-href="http://nol.hu/belfold/a-szulok-veszik-az-iskolapadot-1474343" class="markup--anchor markup--p-anchor" rel="nofollow noopener" target="_blank">az iskolapadot vagy a táblát is a szülőnek kell megvásárolnia</a>, mert arra már nem jut.
+
+Vissza az észtekhez, ahol az internethez történő szabad hozzáférés állampolgári jog lett 2000-ben. Jószerével lefedték az országot wifivel.
+
+Itt pedig eljutottunk arra a pontra, ahol jól jön <a href="http://index.hu/kulfold/eurologus/2014/10/28/netado_helyett_virtualis_utlevel_az_esztek_igy_csinaljak/" data-href="http://index.hu/kulfold/eurologus/2014/10/28/netado_helyett_virtualis_utlevel_az_esztek_igy_csinaljak/" class="markup--anchor markup--p-anchor" rel="nofollow noopener" target="_blank">az indexes link</a>: Észtországban bevezették az “e-kormányzatot”. A kormányzat pedig húzta magával az egész üzleti szférát: a kiváló IT-feltételek kiválóan képzett IT-munkaerőt termeltek, az e-kormányzat, az e-ügyintézés és a vállalkozások indításának egyszerűsége fellendítette a startup-cégek megjelenését és a nemzetközi IT-óriások befektetési kedvét. Ma Észtország GDP-jének mintegy tizenöt százalékát a tech és az IT termeli ki.
+
+És hogy mennyire következetesek az észtek, amikor a vízió hosszútávú követéséről van szó? Az Economist is megemlíti az észt köz- és versenyszféra együttműködéseként megszületett “ProgeTiigert” (programozó tigris) — a 2012-ben meghirdetett program ötéves kortól ad betekintést a programozás és IT világába a gyermekeknek. Annak a korosztálynak, ami végigviszi és beteljesíti az 1991-es Észtország vízióját.
+
+Ismét itthon — Magyarország (legalábbis a jelenlegi miniszterelnök “víziója” alapján) nem hogy IT-alapú társadalommá nem kíván válni, de úgy tűnik szakított a tudásalapú társadalom eszményével is.
+
+Amint Orbán mondta, mostantól a cél (a vízió?) a “<a href="http://www.origo.hu/itthon/20140726-orban-beszed-a-tusvanyosi-szabadegyetemen.html" data-href="http://www.origo.hu/itthon/20140726-orban-beszed-a-tusvanyosi-szabadegyetemen.html" class="markup--anchor markup--p-anchor" rel="nofollow noopener" target="_blank">munkaalapú állam</a>” megteremtése. Ami egészen rémisztően emlékeztet a szocializmusra, amikor mindenki dolgozott ugyan, ám hogy az előállított termék pontosan mekkora értéket képviselt, arról megoszlanak a vélemények.
+
+A miniszterelnök egyetlen dolgot felejt el: jelen pillanatban a politikai és gazdasági környezet nem arról híres, hogy vonzó a befektetők számára. Jelen pillanatban a “munkaalapú állam” koncepciója sokkal inkább a “közmunkaalapú államéra” hajaz, ahol nettó ötvenezerért sepernek-ásnak az emberek, hiszen máshogy lehetetlen megoldani a foglalkoztatásukat.
+
+Nem segít a dolgon a <a href="http://tenytar.blog.hu/2013/09/23/a_felsooktatas_atalakitasa_gombokhoz_a_kabatot" data-href="http://tenytar.blog.hu/2013/09/23/a_felsooktatas_atalakitasa_gombokhoz_a_kabatot" class="markup--anchor markup--p-anchor" rel="nofollow noopener" target="_blank">felsőoktatás szétverése</a> és küszöbön álló <a href="http://www.portfolio.hu/gazdasag/munkaugy/korlatoznak_a_gimnaziumi_letszamot.205131.html" data-href="http://www.portfolio.hu/gazdasag/munkaugy/korlatoznak_a_gimnaziumi_letszamot.205131.html" class="markup--anchor markup--p-anchor" rel="nofollow noopener" target="_blank">középiskolai átalakítás</a> sem. Sok embertől veszi el a kitörés lehetőségét, hogy többre vigye, jobban csinálja. Nem segít a dolgon az <a href="http://nol.hu/gazdasag/a-fel-orszag-sotetbe-fog-borulni-az-internetado-miatt-1495047" data-href="http://nol.hu/gazdasag/a-fel-orszag-sotetbe-fog-borulni-az-internetado-miatt-1495047" class="markup--anchor markup--p-anchor" rel="nofollow noopener" target="_blank">internet megadóztatása</a> sem, hiszen egyebek mellett pont az észt úttól vág majd el minket. Sok embertől veszi el a kitörés lehetőségét, hogy többre vigye, jobban csinálja. Mi értelme van akkor?
+
+De van még egy jobb kérdés, amit végre fel kellene tennünk magunknak és amelyre választ kellene kérnünk, követelnünk. A kérdést magunknak is fel kell tennünk, nem csak a mindenkori kormánynak.
+
+A kérdés pedig az: <em class="markup--em markup--p-em">pontosan mi is akkor Magyarország víziója</em>?
+
+----
+
+Date: 2014-10-28 00:00

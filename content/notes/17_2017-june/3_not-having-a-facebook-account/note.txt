@@ -1,0 +1,43 @@
+Title: Not having a Facebook account...
+
+----
+
+Subtitle: 
+
+----
+
+Text: 
+
+...really makes you a 2<sup>nd</sup> class webizen.
+
+For a lot of things, that is. 
+
+A lot of businesses don't have a website any more &ndash; they simply set up a Facebook page with their hours, location and stuff. And of course plenty of content tailored for social media: cool, modern and likeable. Many of these businesses also enable booking an appointment via Facebook. Via Facebook *only*. 
+
+This makes you think about whether 
+1. these guys actually think that 100% of their potential customers have Facebook accounts or
+2. having a Facebook account is really *that common*.
+
+Probably both.
+
+Again, events. If you want details (such as lineup) on an event advertised exclusively on Facebook &ndash; good luck with that. You'll most likely get a "See more by logging in" message. Apart from that, almost nothing. Location and date, basically.
+
+(image: http://i.imgur.com/09e6jhn.png caption: "See more by logging in" – No, thanks.)
+
+(Over)protection of information becomes important only when it is in accordance with Facebook's interests: sign up, join us, give us your data. Obviously, this protection of information ends at the moment you *do* sign up and your data becomes merchandise that can be sold to advertisers (basically: other companies).
+
+These businesses probably conducted a ROI analysis which turned out with unfortunate results for me and people like me (the "accountless people"). It probably said that 
+
+> "most of our potential customers are on Facebook. Setting up a website would cost us [sum], while losing potential customers *not on Facebook* will cost us [lower sum]."
+
+Obviously, businesses will choose whatever costs less. 
+
+In addition, businesses (local and global likewise) are aware that nowadays the best place to build a community around their brands is Facebook. They can communicate with their customers. Moreover, sometimes their *brand evangelists* do the communication for them. They gain *a lot* with having a brand page on Facebook, Twitter, Instagram etc. While the advantages of an "old fashioned" website cannot be measured that simple. The number of "likes" are more impressive than the number of "page clicks". The "like" slowly becomes a standard measurement unit for marketing.
+
+And this feels like discrimination to me. This is very similar to net neutrality for the "accountless people". Or even worse, because it is not about the speed of access any more &ndash; it is about the *accessibility itself*. Facebook cripples my web &ndash; and does so by the active co-operation of businesses.
+
+I've never felt like a second-class webizen until I deleted my Facebook account a while ago. Since I did, I am constantly reminded that "if you die on Facebook, you die on the real web".
+
+----
+
+Date: 2017-06-12 00:00

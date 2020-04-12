@@ -1,0 +1,25 @@
+Title: Martin Bureau
+
+----
+
+Subtitle: An image post
+
+----
+
+Text: 
+
+(image: martin_bureau.jpg link: https://www.theatlantic.com/photo/2019/03/photos-of-the-week-night-surfing-burning-moorland-trapped-rat/583957/ target: _blank)
+
+(link: https://www.theatlantic.com/photo/2019/03/photos-of-the-week-night-surfing-burning-moorland-trapped-rat/583957/ text: Martin Bureau / AFP target: _blank)
+
+----
+
+Date: 2019-03-07
+
+----
+
+Type: Shorty
+
+----
+
+Gallery: 

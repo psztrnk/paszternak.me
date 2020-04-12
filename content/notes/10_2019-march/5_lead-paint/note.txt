@@ -1,0 +1,17 @@
+Title: I found lead paint in my historic house
+
+----
+
+Subtitle: A longform by Alissa Walker
+
+----
+
+Text: 
+
+(image: lead.png link: https://www.curbed.com/2019/3/20/18264503/lead-paint-dangers-home target: _blank caption: "I found lead paint in my historic house" by Alissa Walker)
+
+*(link: https://www.curbed.com/2019/3/20/18264503/lead-paint-dangers-home target: _blank text: Source).*
+
+----
+
+Date: 2019-03-25 07:45

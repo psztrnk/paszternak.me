@@ -1,0 +1,52 @@
+Title: Ez a blog végre hazatalált
+
+----
+
+Subtitle: 
+
+----
+
+Text: 
+
+Hiába tettem egy utolsó (legalábbis úgy hiszem, hogy utolsó) kísérletet a Wordpress-szel, ismételten rá kellett jönnöm, hogy felesleges egy 22 megás (plusz pluginek, plusz sablon) motor ahhoz, hogy meghajtsa az én szerény kis oldalamat. Hiába használom vagy tíz éve (ha jól emlékszem, akkor a 2.1-es verzió volt az első, amit használtam), folyton rá kell jönnöm, hogy sokkal inkább passzol nagy és komplex oldalak építéséhez &ndash; egyszerű blogmotornak már nagyon régen overkill. 
+
+A teljesség igénye nélkül egy felsorolás arról, hogy milyen rendszerekkel kísérleteztem a fenti felismerés óta:
+* [Ghost](https://ghost.org/)
+* [Dropplets](https://github.com/Circa75/dropplets)
+* [Kirby](https://getkirby.com)
+* [Jekyll](https://jekyllrb.com/) / [Github Pages](https://pages.github.com/)
+* [postach.io](https://postach.io/site) 
+* [Medium](https://medium.com/)
+* [Anchor](https://anchorcms.com/)
+* [Pico](http://picocms.org/)
+
+Ezek jó része persze el sem jutott a "production" állapotba, de mindegyik (mármint amelyik esetében lehetséges volt) ment egy jópár kört localhoston. Ez a gyönyörködtető változatosság arra mindenesetre tökéletes volt, hogy rájöjjek, két dologhoz ragaszkodom:
+1. a [markdownhoz](https://daringfireball.net/projects/markdown/) és a
+2. [flat file rendszerhez](https://en.wikipedia.org/wiki/Flat_file_database).
+
+Úgyhogy nagy kitérők után visszakanyarodtam régi nagy kedvencemhez, a [Kirbyhez](https://getkirby.com). Még a Kirby 1 idején vettem hozzá egy egyszájtos licenszt (habár [nem lenne muszáj](https://getkirby.com/docs/installation/license-code), de na, mégis), ami szerencsére érvényes a Kirby 2-re is. Azóta elég sok fejlesztés volt, például a [Panel](https://getkirby.com/docs/panel), ami még inkább megkönnyíti az oldal szerkesztését és karbantartását. És az egész cucc nincs 5 mega.
+##Kapcsolt részek
+És ha már így belejöttem az adatbázis-mentességbe, melléraktam egy másik NoDB megoldást is: a [Shaarlit](https://github.com/shaarli/Shaarli/), ami - nevével ellentétben - nem egy bollywoodi színész, hanem megoldás egy elég régi problémámra &ndash; arra, hogy hová gyűjtsem a linkjeimet és a megosztásaimat.
+
+Újabban a Tumblr-en próbáltam rendezni a megosztott linkeket, de
+1. valami egyszerűbbre vágytam és
+2. szeretem magam hosztolni a dolgaimat, hogy ne függjek annyira mindenféle szolgáltatásoktól (a Tumblr persze elég nagy és elég régi, de ugye emlékszünk még a Google Readerre).
+
+A Shaarli telepítése nagyon - sőt: meglepően - egyszerű volt. Úgy is mondhatnám, hogy végre valami, ami pont úgy települ ahogyan az a [dokumentációban írva vagyon](https://github.com/shaarli/Shaarli/wiki/Download-and-Installation): felmásolod egy könyvtárba, megnyitod a böngészőben, megadsz néhány adatot és gyakorlatilag meg is vagy. Kicsit (nagyon) ugyan *ugly*, de erre meg szerencsére megoldás például a [Material sablon](https://github.com/kalvn/Shaarli-Material) &ndash; telepítése szintén bitang egyszerű, letöltés, feltöltés, meg minimális mókolás a Shaarli config fájljában. 
+
+<del>Ennek eredménye lett az [Adam's Reading List](http://paszternak.me/share) (RSS is van, ha még használja valaki), ami a [shaarli2twitter](https://github.com/ArthurHoaro/shaarli2twitter) pluginnak hála automatikusan továbbosztja a bookmarkokat Twitterre is.</del>
+
+##És ha már open source
+Már viszonylag régen van egy [OwnCloud](https://owncloud.org/)-alapú felhőtárhelyem, amit vagy két éve egy jól elkapott akcióban sikerült korlátlanra bővítenem (de tényleg, "∞") &ndash; viszont szerintem az iOS kliens például kimondottan szarul működött, úgyhogy soha nem engedtem igazán szabadon a benne lévő potenciált. Azonban mostanában rá kellett jönnöm, hogy az androidos app (konkrétan [ezt használom](https://play.google.com/store/apps/details?id=com.ocloud24.android&hl=hu)) sok-sok kört ver az iOS-esre, szóval azóta minden fotót, videót, naptárbejegyzést, kontaktot, text fájlt, satöbbit oda eresztek fel &ndash; plusz ennek a posztnak a draftját is az OwnCloud beépített text editorán írom.
+
+Minél több OS szoftvert használok, annál inkább kezdem belátni, hogy ilyen dolgokat, ha mobile accessről van szó, csak Androidon lehet normálisan használni. Valószínűleg azért, mert ezeket olyan emberek fejlesztik, akik nem csak hisznek az open source létjogosultságában, de abszolút előnyben is részesítik azokat &ndash; ennek megfelelően a natív kliensek javarészt Androidra készülnek el, míg a zárt platformoknak sokszor be kell érniük mindenféle fis-fos third party portokkal. 
+
+Ugyanez a helyzet a [Disaporával](https://diasporafoundation.org/) is &ndash; egy pillanatra felejtsük most el, hogy a Diaspora-API hiánya mennyire [fájó seb](https://diaspora.github.io/api-documentation/index.html) az univerzum szövetén, viszont emlékezzünk meg arról, hogy iOS-re nincs egy működőképes WebApp sem, míg Adroidon a [dandelion](https://f-droid.org/repository/browse/?fdid=com.github.dfa.diaspora_android&fdpage=15) beton stabil és átkozottul gyors. 
+
+> <em>SideNote:</em> amióta deaktiváltam a Facebook-fiókomat és átszoktam helyette a Diasporára, szerintem a vérnyomásom is csökkent. Ha eltekintünk az egy pixelhalomra eső anarchisták és szélső[oldal]osok (Facebookhoz képest) meglehetősen magas számától, akkor ilyen az, ahogyan egy közösségi oldalnak működnie kellene.
+
+Tényleg, nem tudtok egy self-hosted, open source Instagram-klónt?
+
+----
+
+Date: 2017-01-08 00:00

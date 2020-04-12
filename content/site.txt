@@ -1,0 +1,25 @@
+Title: Adam Paszternak
+
+----
+
+Description: Guy with a beard. Reads a lot. Writes a bit. Occasionally takes photos. Listens to a wide variety of music. EN/HUN. This is his scrapbook.
+
+----
+
+Contact: Contact me at (email: hello@paszternak.me). I'm also on (link: https://micro.blog/psztrnk text: micro.blog).
+
+----
+
+Footertext: (link: / text: main.page)&nbsp;&nbsp;&nbsp;(link: about text: about.this)&nbsp;&nbsp;&nbsp;(link: micro text: micro.status)&nbsp;&nbsp;&nbsp;(link: feed text: json.feed)
+
+----
+
+Text:
+
+----
+
+Version: p3v8 "hastings"
+
+----
+
+Font: (link: https://github.com/VanillaandCream/Palanquin/ text: Palanquin by Pria Ravichandran)

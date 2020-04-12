@@ -1,0 +1,21 @@
+Title: Firouzeh
+
+----
+
+Text: 
+
+(image: firouzeh.jpg link: https://500px.com/vahidnavidian target: _blank)
+
+(link: https://500px.com/vahidnavidian text: Firouzeh target: _blank).
+
+----
+
+Type: Shorty
+
+----
+
+Date: 2018-10-25 14:05
+
+----
+
+Gallery: 

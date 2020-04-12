@@ -1,0 +1,5 @@
+Title: micro.status
+
+----
+
+Text: Content federated from (link: https://libranet.de/profile/apsztrnk/ text: Friendica) and (link: https://psztrnk.ddns.net/adam text: Pixelfed).

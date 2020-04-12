@@ -1,0 +1,54 @@
+Title: I refuse to buy a new graphics card
+
+----
+
+Subtitle: 
+
+----
+
+Text: 
+
+I stick with Manjaro Linux instead.
+
+(image: manjaro.png)
+
+So I am not very much into gaming or graphics or anything, which would require the newest and finest and most powerful video card. What I have in my desktop computer is a seven-or-so years old [Radeon HD5670](http://www.amd.com/en-us/products/graphics/desktop/5000/5670) – yeah, I know.
+
+Unfortunately I also like Linux. Previously I used Debian (and/or Ubuntu) based systems on my other computers, like
+
+* Debian,
+* Ubuntu (to be fair I permanently ditched Ubuntu when the [Amazon thing](https://www.theregister.co.uk/2012/09/24/ubuntu_amazon_suggestions/) happened),
+* Xubuntu,
+* Linux Mint,
+* ElementaryOS and
+* Linux Lite.
+
+And I always had problem with graphics. *Always*. I know that AMD's s support for Linux is very weak (non-existent, basically), but come on: switching off the display at the moment the install media begins to boot is not a nice way to install any distribution.
+
+So what I did in the past was
+
+1. I set the primary display in BIOS.
+2. I unplugged the monitor from the graphics card.
+3. I plugged it in the motherboard’s integrated video port.
+4. I installed the [name the distro].
+5. I started to tweak it to be able to use it with my Radeon card – which took hours. Or days.
+
+Sometimes it did not work. Sometimes it did – with a huge chance that some update would break the tweak soon, so that I’d have to start the whole thing over again. And again. Basically the best advice I was provided was to buy a new graphics card. One that is not of AMD. Because that would give a permanent solution for my issues.
+
+So Linux distributions came and went on my desktop PC – and I always got back to Windows. Which always worked. 7, 8, 8.1, 10, you name it. Out of the box. *Magic*.
+
+Enter [Manjaro](https://manjaro.org/).
+
+I created the install media with Rufus, as usual, from the Manjaro 17.0.1 XFCE Edition ISO. I rebooted my PC and booted from the USB stick (using the Radeon). Boot menu popped up. I selected the time zone, the language, the keyboard and the non-free drivers – and hoped for the best.
+
+And the Manjaro Live Desktop showed up. Perfect colors, perfect display resolution. Not a single blink, not a single glitch. So I installed the system, and again: hoped for the best when the installation was done and Manjaro asked for a reboot.
+
+And I rebooted.
+
+And Manjaro started. Perfect colors, perfect display resolution. Not a single blink, not a single glitch. Stable and fast.
+
+I’ve never used Arch, or Arch based distributions previously. After so many years of Debian, I was kind of worried about whether I’ll be able to do stuff with Manjaro – yes, I am. Well, the everyday stuff, that is. XFCE is an old friend of mine and whatever is under the hood, also can be learned in time.
+
+----
+
+Date: 2019-03-28 00:00

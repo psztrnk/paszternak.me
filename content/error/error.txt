@@ -1,0 +1,9 @@
+Title: Error
+
+----
+
+Text: 
+
+Why don't you return to (link: / text: the front page) and start over?
+
+*Note: if you see this page again, I totally broke something. Sorry about that.*

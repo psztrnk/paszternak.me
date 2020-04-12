@@ -1,0 +1,13 @@
+Title: Then Mr. Ton-That
+
+----
+
+Subtitle: 
+
+----
+
+Text: > — an Australian techie and onetime model — did something momentous: He invented a tool that could end your ability to walk down the street anonymously, and provided it to hundreds of law enforcement agencies, ranging from local cops in Florida to the F.B.I. and the Department of Homeland Security.<br /><br />His tiny company, Clearview AI, devised a groundbreaking facial recognition app. You take a picture of a person, upload it and get to see public photos of that person, along with links to where those photos appeared. The system — whose backbone is a database of more than three billion images that Clearview claims to have scraped from Facebook, YouTube, Venmo and millions of other websites — goes far beyond anything ever constructed by the United States government or (link: https://www.nytimes.com/2020/01/18/technology/clearview-privacy-facial-recognition.html text: Silicon Valley giants target: _blank).
+
+----
+
+Date: 2020-01-20 09:30

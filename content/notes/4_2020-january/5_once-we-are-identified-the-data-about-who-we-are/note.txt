@@ -1,0 +1,13 @@
+Title: Once we are identified, the data about who we are
+
+----
+
+Subtitle: 
+
+----
+
+Text: > and what we are doing can be correlated with other data collected at other times. This might be movement data, which can be used to "follow" us as we move throughout our day. It can be purchasing data, internet browsing data, or data about who we talk to via email or text. It might be data about our income, ethnicity, lifestyle, profession and interests. There is an entire industry of data brokers who make a living analyzing and augmenting data about who we are — using surveillance data collected by all sorts of companies and then sold without our (link: https://www.schneier.com/essays/archives/2020/01/were_banning_facial_.html text: knowledge or consent target: _blank).
+
+----
+
+Date: 2020-01-24 09:30

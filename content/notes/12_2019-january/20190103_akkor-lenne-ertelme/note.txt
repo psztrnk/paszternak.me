@@ -1,0 +1,17 @@
+Title: Akkor lenne értelme
+
+----
+
+Text: > ha nem "tesztüzemben" működne fél éve. Így azonban csak parasztvakítás. Minek jelents valamit, ha semmi nem történik utána? A teszteket tessék a tesztidőszak alatt letudni, egy funkcionális, de semmire nem való appot teljesen (link: https://play.google.com/store/apps/details?id=com.miskolcholding.tisztamiskolc&hl=en text: felesleges publikálni target: _blank).
+
+----
+
+Type: Shorty
+
+----
+
+Date: 2019-01-03 14:55
+
+----
+
+Gallery: 
