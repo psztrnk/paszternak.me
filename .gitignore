@@ -39,3 +39,4 @@ Icon
 # Config
 # ---------------
 /site/config/*
+!/site/config/config.php
