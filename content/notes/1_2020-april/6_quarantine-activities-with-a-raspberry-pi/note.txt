@@ -1,0 +1,31 @@
+Title: Quarantine activities with a RasPi, the decentralized web and Kirby
+
+----
+
+Showtitle: show
+
+----
+
+Date: 2020-04-13 17:30
+
+----
+
+Text:
+
+Since the partial curfew, it seems that I've got more time than before the pandemic &mdash; or maybe my sleeping habits changed significantly. Anyways, I'm up and awake at 4AM on most of the days, so I decided to have some fun with an old (link: https://www.raspberrypi.org/products/raspberry-pi-3-model-b/ text: Raspberry Pi 3 Model B target: _blank) I had lying around. 
+
+I've always wanted to try hosting some decentralized tools for myself, so I put that RasPi to a good use. In a week I installed
+
+- (link: https://pleroma.social/ text: Pleroma target: _blank),
+- (link: https://friendi.ca/ text: Friendica target: _blank) and 
+- (link: https://pixelfed.org/ text: Pixelfed target: _blank),
+
+mostly to prove to myself that *I actually can* &mdash; and I could. It's so much fun to have this little piece of tech to do stuff with. None of the installations were particularly hard, but as usual stuff not exactly went according to the documentations. However well documented the procedure is, there's always something not mentioned (I'm looking at you, Pixelfed's "(link: https://github.com/pixelfed/support/issues/48#issuecomment-394102535 text: storage:link target: _blank)") or there's always something going sideways you'll have to search a workaround for. Whatever.
+
+Side project was to have my ISP disable IPv6 for me, so I can do the port forward. That'd normally be literally two clicks on their website, but since Vodafone acquired them and launched their new website, none of the self services work. It took me an hour and a half to get it done, but it's done. I also configured (link: http://www.darwinbiler.com/dynamic-dns-using-raspberry-pi/ text: Dynamic DNS on the RasPi target: _blank).
+
+As for the installs: all work fine on the Raspberry &mdash; as long as you don't want to federate, that is. Friendica almost killed the hardware, having it running on 100%, heating it up to 87°C before I shut it down. The most speedy and stable is Pixelfed, so I decided to keep it running as my own little "private Instagram". I doesn't even have a heavy load on the board:
+
+(image: raspi_monitor.png)
+
+Meanwhile I also had a little experiment with Kirby's (link: https://getkirby.com/docs/guide/virtual-pages text: virtual pages target: _blank), so I channeled my (link: https://libranet.de text: Libranet target: _blank) and Pixelfed activity to my blog via an API call, rendering virtual posts as a child of an (link: /micro text: actual page). And while I was already playing with Kirby anyway, I also did the annual redesign of the site, resulting in "p3v8 (hastings)".
