@@ -1,13 +1,13 @@
 <?php snippet('header') ?>
 
-<?php $items = $page->children()->sortBy('date', 'desc')->paginate(5); $pagination = $items->pagination(); ?>
+<?php $items = $page->children()->sortBy('date', 'desc')->paginate(10); $pagination = $items->pagination(); ?>
 <?php foreach ($items as $item): ?>
 	<article>
 		<?php if ($item->source() == 'friendica_pic' || $item->source() == 'pixelfed') {
 				echo '<img src="'.$item->pic().'" />';
-		} ?>
-		<?= $item->text(); ?>
-		<p class="meta">&rarr; <a href="<?= $item->link() ?>" title="permalink"><?php echo $item->date()->toDate('H:i Y-m-d'); ?></a></p>
+		}
+		echo $item->text(); ?>
+		<p class="meta">&rarr; <a href="<?= $item->link() ?>" title="permalink"><?= $item->date()->toDate('H:i Y-m-d'); ?></a></p>
 	</article>
 <?php endforeach; ?>
 

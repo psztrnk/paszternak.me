@@ -1,7 +1,7 @@
 		</div>
 		<footer>
-			<span class="clear"></span>
-			<?php echo $site->footertext()->kirbytext(); ?>
+			<div class="clear"></div>
+			<?= $site->footertext()->kirbytext(); ?>
 		</footer>
 	</body>
 </html>
