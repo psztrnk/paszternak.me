@@ -29,7 +29,7 @@ class MicroPage extends Page {
 						'content'  => [
 							'date'     => date('Y-m-d H:i', strtotime($friendica_item->created_at)),
 							'link'     => $friendica_item->external_url,
-							'text'     => $friendica_item->friendica_html,
+							'text'     => $friendica_item->text,
 							'pic'      => $friendica_item->attachments[0]->url,
 							'source'   => 'friendica_pic'
 						]
@@ -70,7 +70,7 @@ class MicroPage extends Page {
 						'date'     => date('Y-m-d H:i', strtotime($pixelfed_item->created_at)),
 						'link'     => $pixelfed_item->url,
 						'text'     => null,
-						'pic'    =>   $pixelfed_item->media_attachments[0]->preview_url,
+						'pic'    =>   $pixelfed_item->media_attachments[0]->url,
 						'source'   => 'pixelfed'
 					]
 				];
